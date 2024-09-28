@@ -83,7 +83,7 @@ int main() {
 
     // Initialize goal state
     // SET_PEG(goal_state, POS(3, 1));
-    goal_state = 0b10011010010010101001;
+    goal_state = 1047995;
 
     printf("Start state: %llu\n", start_state);
     printf("Goal state: %llu\n", goal_state);
@@ -142,6 +142,10 @@ int greedy_best_first_search(BoardState start_state, BoardState goal_state) {
             Node successor_node;
             successor_node.state = successors[i];
             successor_node.h = heuristic(successors[i], goal_state);
+
+            if (successor_node.h == 0) {
+                printf("Ye: %llu \n", current_node.state);
+            }
 
             insert_priority_queue(&open_set, successor_node);
         }
