@@ -1,0 +1,7302 @@
+Date = 1
+(0, 1, 2, 3, 4, 5)
+Shape = (530, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 10 17 24 25 26 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (525, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 6 --- 16 17 24 25 26 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (522, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 2 8 9 15 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (499, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 2 3 9 10 11 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 18 19 23 24 25 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 6 --- 8 9 10 17 18 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (495, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (492, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 9 11 16 17 18 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (487, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (461, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 2 3 4 8 9 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (521, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 2 3 4 8 9 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (518, 36)
+No solution
+
+
+(0, 1, 3, 4, 6, 7)
+Shape = (513, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 10 11 16 17 18 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (483, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (530, 36)
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (527, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (522, 36)
+
+Piece number = 0 --- 2 9 10 11 18 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 3 4 5 12 13 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 4 11 12 13 20 
+Piece number = 2 --- 3 10 16 17 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 8 9 15 22 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (492, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (518, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 8 9 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (566, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 9 10 15 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (563, 36)
+
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 2 --- 6 11 12 13 20 
+Piece number = 3 --- 16 17 18 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (558, 36)
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 2 3 4 9 10 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 17 23 24 25 26 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 3 10 11 12 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (528, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (554, 36)
+
+Piece number = 1 --- 10 16 17 18 19 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 3 4 11 12 
+Piece number = 7 --- 20 24 25 26 27 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (563, 36)
+
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 2 3 9 10 11 
+Piece number = 4 --- 12 13 20 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+Solution count for date 1 = 21
+Date = 2
+(0, 1, 2, 3, 4, 5)
+Shape = (502, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (496, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (493, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (472, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 4 11 12 13 20 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 3 10 16 17 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (463, 36)
+
+Piece number = 0 --- 11 16 17 18 23 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 6 --- 19 20 24 25 26 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (469, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (466, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (460, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (436, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 20 24 25 26 27 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (492, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (489, 36)
+
+Piece number = 0 --- 3 4 10 16 17 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 3 4 5 6 12 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 4 --- 11 13 18 19 20 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (459, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 16 17 18 23 24 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (456, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (502, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 4 --- 1 3 8 9 10 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (499, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (493, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (469, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (466, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (489, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 6)
+Shape = (535, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 13 19 20 26 27 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (526, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (502, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 12 13 19 20 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (499, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 4 --- 3 4 11 17 18 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (522, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 16 17 18 23 24 
+Piece number = 4 --- 11 12 19 25 26 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 3 4 5 6 10 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 2 --- 11 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 1 8 15 16 17 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 18 22 23 24 25 
+
+Solution count for date 2 = 17
+Date = 3
+(0, 1, 2, 3, 4, 5)
+Shape = (480, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (477, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (475, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (451, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 12 18 19 25 26 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 4 5 6 10 11 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (449, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (446, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 6 --- 1 2 9 10 11 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (447, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (445, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 17 23 24 25 26 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (442, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 2 4 9 10 11 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (416, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (471, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 2 9 10 11 18 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 19 20 21 25 26 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (436, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 1 --- 16 17 18 19 24 
+Piece number = 4 --- 2 4 9 10 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (480, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (478, 36)
+
+Piece number = 0 --- 4 5 11 17 18 
+Piece number = 2 --- 12 19 25 26 27 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (475, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (449, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (445, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 3 --- 9 16 17 23 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (512, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (510, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 4 9 10 11 18 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (507, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (481, 36)
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 12 13 19 20 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 1 2 9 10 11 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (477, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 4 9 10 11 18 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (501, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 17 18 23 24 25 
+Piece number = 4 --- 2 4 9 10 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (510, 36)
+No solution
+
+
+Solution count for date 3 = 20
+Date = 4
+(0, 1, 2, 3, 4, 5)
+Shape = (478, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (473, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (470, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (447, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (439, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (443, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (440, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (435, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 3 5 10 11 12 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (409, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (467, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (464, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (459, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 3 5 10 11 12 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (433, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 10 16 17 18 19 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (429, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 4 --- 3 5 10 11 12 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (478, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (475, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (470, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 3 5 10 11 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (464, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 18 19 20 27 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (508, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 10 11 12 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (505, 36)
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (500, 36)
+
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 6 7 14 21 28 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (474, 36)
+No solution
+
+
+(1, 2, 4, 5, 6, 7)
+Shape = (470, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (494, 36)
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (505, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 12 17 18 
+Piece number = 4 --- 5 6 13 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 4 = 20
+Date = 5
+(0, 1, 2, 3, 4, 5)
+Shape = (480, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (477, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 6 7 11 12 13 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (475, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (451, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 6 7 11 12 13 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (449, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 16 23 24 25 26 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (446, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (447, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (445, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 9 11 16 17 18 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (442, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (416, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (471, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 4 --- 8 10 15 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 18 22 23 24 25 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 8 10 15 16 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 18 22 23 24 25 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (436, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (480, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (478, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (475, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 3 4 9 10 11 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (449, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (445, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 3 4 11 12 13 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (512, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 14 20 21 27 28 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 6 7 11 12 13 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (510, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 6 11 12 13 20 
+Piece number = 3 --- 16 17 18 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (507, 36)
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (481, 36)
+
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (477, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (501, 36)
+
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 3 --- 19 26 27 29 30 
+Piece number = 4 --- 3 4 10 17 18 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 1 2 8 15 22 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (510, 36)
+
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 3 4 10 17 18 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 1 2 8 15 22 
+
+Solution count for date 5 = 19
+Date = 6
+(0, 1, 2, 3, 4, 5)
+Shape = (502, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (496, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (493, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (472, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 7 --- 5 12 19 25 26 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (463, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (469, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 4 --- 5 7 12 13 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 16 23 24 25 26 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (460, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (436, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 20 24 25 26 27 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (492, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (489, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 3 --- 9 10 16 17 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 9 11 16 17 18 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (459, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (456, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (502, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 5 7 12 13 14 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (499, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (493, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 4 5 11 18 19 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (469, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (466, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (489, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 3 --- 3 4 5 10 11 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 9 16 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (535, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 5 12 18 19 20 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (526, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 4 5 12 19 26 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (502, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (499, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 9 10 11 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (522, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 18 19 20 26 27 
+Piece number = 4 --- 5 7 12 13 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (532, 36)
+No solution
+
+
+Solution count for date 6 = 18
+Date = 7
+(0, 1, 2, 3, 4, 5)
+Shape = (530, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (525, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 3 4 5 9 10 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (522, 36)
+
+Piece number = 0 --- 4 5 11 17 18 
+Piece number = 1 --- 6 12 13 20 27 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (499, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 19 26 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 3 4 5 6 13 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 6 11 12 13 20 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (495, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (492, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 3 4 5 6 13 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 4 5 6 13 14 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (461, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (521, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 4 5 6 12 13 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (518, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (513, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 4 5 11 12 18 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 6 --- 10 11 12 16 17 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 4 5 6 13 14 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (530, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 11 18 19 20 25 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 6 13 14 21 28 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (527, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (522, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 5 12 19 25 26 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (492, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (518, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 3 4 5 6 10 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (566, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 12 19 20 21 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 4 5 6 13 14 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (563, 36)
+
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 17 18 19 25 26 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (558, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 4 --- 5 6 13 19 20 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 5 --- 5 12 17 18 19 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 16 23 24 25 26 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (528, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 4 5 12 19 26 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (554, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 6 13 18 19 20 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (563, 36)
+
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 18 19 24 25 26 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 1 8 15 22 23 
+
+Solution count for date 7 = 24
+Date = 8
+(0, 1, 2, 3, 4, 5)
+Shape = (504, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (500, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (498, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 1 2 9 15 16 
+Piece number = 7 --- 18 22 23 24 25 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (476, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (470, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (473, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (471, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (467, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (443, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (496, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (494, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (490, 36)
+No solution
+
+
+(0, 1, 3, 5, 6, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 5 --- 6 13 18 19 20 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (463, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (504, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (502, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (498, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 3 4 5 10 11 
+Piece number = 4 --- 1 2 9 15 16 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (471, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (494, 36)
+
+Piece number = 0 --- 3 4 11 18 19 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 1 2 9 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (539, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (537, 36)
+
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (533, 36)
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 19 20 21 25 26 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (509, 36)
+No solution
+
+
+(1, 2, 4, 5, 6, 7)
+Shape = (506, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 10 11 12 16 17 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (529, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 15 16 17 22 23 
+Piece number = 4 --- 10 11 18 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (537, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 6 13 18 19 20 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 8 = 15
+Date = 9
+(0, 1, 2, 3, 4, 5)
+Shape = (448, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (439, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (421, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (422, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 11 12 13 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (413, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (423, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (424, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (415, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (397, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (443, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (435, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 15 16 17 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (417, 36)
+
+Piece number = 0 --- 2 3 10 17 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (419, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (448, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (449, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 3 4 5 10 11 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (422, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (424, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 3 4 11 18 19 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (480, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (481, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (472, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 11 18 19 26 29 
+Piece number = 7 --- 3 4 5 6 10 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (454, 36)
+
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 1 8 15 16 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 18 22 23 24 25 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (456, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (476, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 3 4 10 11 18 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (481, 36)
+
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 6 12 13 19 20 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 9 = 19
+Date = 10
+(0, 1, 2, 3, 4, 5)
+Shape = (406, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (401, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (404, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (381, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (384, 36)
+No solution
+
+
+(0, 1, 2, 3, 6, 7)
+Shape = (379, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (381, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (384, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (379, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (359, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (403, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (406, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 3 4 11 18 25 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (401, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 4 5 11 12 18 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (381, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 3 --- 12 13 18 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (381, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 3 4 5 6 12 
+Piece number = 4 --- 11 13 18 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (406, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (409, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (404, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 2 9 16 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (384, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 6 12 13 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (384, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (406, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 3 --- 11 12 18 19 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 3 4 5 6 13 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (436, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (439, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (434, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (414, 36)
+
+Piece number = 1 --- 11 17 18 19 20 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 6 12 13 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (414, 36)
+
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 4 --- 4 5 6 11 13 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (436, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 17 18 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (439, 36)
+
+Piece number = 2 --- 4 11 12 13 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 19 20 24 25 26 
+Piece number = 7 --- 1 8 15 22 23 
+
+Solution count for date 10 = 17
+Date = 11
+(0, 1, 2, 3, 4, 5)
+Shape = (402, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (391, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (393, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (371, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (373, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 5 --- 10 17 24 25 26 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (362, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 6 --- 3 4 5 12 13 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (371, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (373, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (362, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (342, 36)
+
+Piece number = 0 --- 2 3 10 17 18 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 16 23 24 25 26 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (393, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (395, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 17 18 24 25 26 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (384, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (364, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 3 4 5 6 12 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (364, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 17 18 19 20 24 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (400, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (402, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (391, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (371, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (371, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (393, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 12 13 20 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (426, 36)
+
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 14 20 21 27 28 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (428, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 12 13 19 26 29 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (417, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (397, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 17 18 19 26 27 
+Piece number = 7 --- 2 3 4 5 12 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (397, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (419, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 2 3 9 10 17 
+Piece number = 4 --- 12 13 20 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (426, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 13 20 21 27 28 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Solution count for date 11 = 21
+Date = 12
+(0, 1, 2, 3, 4, 5)
+Shape = (402, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (395, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (396, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (375, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (376, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (369, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (375, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (376, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (369, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (349, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (397, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (398, 36)
+
+Piece number = 0 --- 2 3 10 17 18 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 4 5 6 11 13 
+Piece number = 5 --- 7 14 19 20 21 
+Piece number = 7 --- 16 23 24 25 26 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (391, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (371, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 3 4 5 10 11 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (371, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 4 --- 8 9 10 15 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (404, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (405, 36)
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (398, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (378, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (400, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (430, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (431, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 2 3 9 10 16 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (424, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 18 19 24 25 26 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (404, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (404, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (426, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 9 10 11 
+Piece number = 7 --- 17 18 19 20 27 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (433, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 10 11 17 18 
+Piece number = 4 --- 5 6 13 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 12 = 21
+Date = 13
+(0, 1, 2, 3, 4, 5)
+Shape = (444, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 18 19 20 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (431, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 5 6 7 11 12 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (430, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (413, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (412, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 5 12 18 19 20 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (399, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (415, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (414, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 16 23 24 25 26 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (401, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (383, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (435, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (434, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 14 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (421, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (403, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (405, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 12 19 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (444, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (443, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 11 18 19 25 26 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (430, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (412, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 12 19 20 21 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (414, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (434, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 4 11 18 19 20 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (472, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 5 10 11 12 19 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 16 17 18 25 26 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (471, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 11 12 19 26 29 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (458, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 18 19 20 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (442, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (462, 36)
+
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 18 19 20 26 27 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (471, 36)
+
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 3 4 10 17 18 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 1 2 8 15 22 
+
+Solution count for date 13 = 21
+Date = 14
+(0, 1, 2, 3, 4, 5)
+Shape = (502, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 16 17 18 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (496, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (493, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (472, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 12 19 20 21 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (463, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (469, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 4 --- 8 10 15 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 18 22 23 24 25 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (460, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (436, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 8 9 16 17 18 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (492, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (489, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 18 24 25 26 27 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (459, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (456, 36)
+
+Piece number = 0 --- 3 10 11 12 19 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 9 16 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (502, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (499, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 3 4 10 17 18 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (493, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (469, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (466, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (489, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 3 --- 3 4 5 11 12 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 17 18 25 26 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (535, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 18 19 25 26 27 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 3 4 11 12 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 12 18 19 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (526, 36)
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (502, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 2 3 9 10 11 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (499, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (522, 36)
+
+Piece number = 1 --- 18 19 20 21 27 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 15 22 23 24 25 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 13 20 21 27 28 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Solution count for date 14 = 19
+Date = 15
+(0, 1, 2, 3, 4, 5)
+Shape = (504, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (500, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (498, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (476, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (470, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 11 12 17 18 19 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (473, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (471, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 10 17 24 25 26 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (467, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (443, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (496, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 7 14 20 21 27 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (494, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (490, 36)
+No solution
+
+
+(0, 1, 3, 5, 6, 7)
+Shape = (466, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 3 --- 1 2 8 9 10 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 20 24 25 26 27 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (463, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 18 19 20 27 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (504, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (502, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (498, 36)
+
+Piece number = 0 --- 4 5 11 17 18 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 6 12 13 19 20 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (471, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (494, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (539, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 11 12 13 17 18 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (537, 36)
+
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (533, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 17 18 19 20 27 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (509, 36)
+No solution
+
+
+(1, 2, 4, 5, 6, 7)
+Shape = (506, 36)
+
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (529, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 3 --- 1 2 8 9 10 
+Piece number = 4 --- 3 4 11 17 18 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (537, 36)
+
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 11 12 17 18 19 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 15 = 21
+Date = 16
+(0, 1, 2, 3, 4, 5)
+Shape = (448, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (439, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (421, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (422, 36)
+No solution
+
+
+(0, 1, 2, 3, 6, 7)
+Shape = (413, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (423, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (424, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 10 17 24 25 26 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (415, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (397, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (443, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 17 18 19 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 5 6 7 11 12 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (435, 36)
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 1 --- 18 19 20 21 27 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 2 3 4 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (417, 36)
+
+Piece number = 0 --- 2 3 10 17 18 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (419, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 18 19 20 27 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (448, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (449, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 2 9 10 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (422, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (424, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (480, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (481, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (472, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 11 12 19 25 26 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 3 4 5 6 10 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (454, 36)
+
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 12 17 18 19 26 
+Piece number = 3 --- 1 2 8 9 10 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (456, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (476, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (481, 36)
+No solution
+
+
+Solution count for date 16 = 20
+Date = 17
+(0, 1, 2, 3, 4, 5)
+Shape = (403, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (400, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (403, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (378, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (381, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (378, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (381, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (378, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (356, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (400, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (403, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 11 12 13 18 19 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (400, 36)
+
+Piece number = 0 --- 2 9 10 11 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 3 4 5 12 13 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 12 13 18 19 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (403, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (406, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (403, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (381, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (381, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (403, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 4 11 18 24 25 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (434, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 7 14 20 21 27 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (437, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 16 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (434, 36)
+
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (412, 36)
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 19 20 21 25 26 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (412, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (434, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (437, 36)
+No solution
+
+
+Solution count for date 17 = 17
+Date = 18
+(0, 1, 2, 3, 4, 5)
+Shape = (392, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (385, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (388, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (361, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (364, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (357, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (362, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (365, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 11 12 19 25 26 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (358, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (334, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (385, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 4 5 9 10 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (388, 36)
+
+Piece number = 0 --- 4 11 12 13 20 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (381, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (357, 36)
+No solution
+
+
+(0, 1, 4, 5, 6, 7)
+Shape = (358, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (391, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (394, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 11 12 13 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (387, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (363, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 9 10 11 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (364, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (387, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 20 21 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (418, 36)
+
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 14 20 21 27 28 
+Piece number = 4 --- 10 11 12 17 19 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (421, 36)
+
+Piece number = 1 --- 4 10 11 12 13 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (414, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 11 12 17 19 
+Piece number = 6 --- 24 25 26 29 30 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (390, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 14 20 21 27 28 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 2 3 4 5 9 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (391, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (414, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 19 23 24 25 26 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (420, 36)
+
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 13 20 21 27 28 
+Piece number = 4 --- 10 11 12 17 19 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Solution count for date 18 = 17
+Date = 19
+(0, 1, 2, 3, 4, 5)
+Shape = (372, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (373, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (377, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (347, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (351, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (352, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (347, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 5 6 7 11 12 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (351, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 11 12 18 25 26 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (352, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (326, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (373, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 13 14 20 21 27 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (377, 36)
+
+Piece number = 0 --- 10 11 17 23 24 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 4 5 11 17 18 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (352, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 20 26 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (352, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (373, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (377, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 3 4 5 12 13 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (352, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (352, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 3 4 5 6 13 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (378, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (401, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (405, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 16 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (406, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 20 26 27 29 30 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (380, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 17 18 24 25 26 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 5 6 10 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (380, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (406, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 11 12 16 17 18 
+Piece number = 7 --- 20 24 25 26 27 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (406, 36)
+No solution
+
+
+Solution count for date 19 = 17
+Date = 20
+(0, 1, 2, 3, 4, 5)
+Shape = (412, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (403, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (406, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (387, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (390, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (381, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (387, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (390, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (381, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (365, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (409, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (412, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (403, 36)
+No solution
+
+
+(0, 1, 3, 5, 6, 7)
+Shape = (387, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (387, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (412, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (415, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (406, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (390, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (390, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (412, 36)
+
+Piece number = 0 --- 3 4 10 16 17 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 18 22 23 24 25 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (440, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (443, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (434, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 19 26 27 29 30 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (418, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 11 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 8 9 16 17 18 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (418, 36)
+No solution
+
+
+(1, 3, 4, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (443, 36)
+
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Solution count for date 20 = 14
+Date = 21
+(0, 1, 2, 3, 4, 5)
+Shape = (482, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (481, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (480, 36)
+
+Piece number = 0 --- 11 18 19 20 27 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (455, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (454, 36)
+No solution
+
+
+(0, 1, 2, 3, 6, 7)
+Shape = (453, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (451, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (450, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (449, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (423, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (475, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (473, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 8 9 10 15 16 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (447, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 1 --- 11 16 17 18 19 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (443, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (482, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 13 14 20 27 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (481, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 17 18 19 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (480, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (454, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (450, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (474, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 3 --- 12 13 19 20 27 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (516, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 2 3 9 10 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 13 14 20 27 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (515, 36)
+
+Piece number = 1 --- 16 17 18 19 25 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 4 5 6 7 11 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (514, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 2 3 10 11 12 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (488, 36)
+No solution
+
+
+(1, 2, 4, 5, 6, 7)
+Shape = (484, 36)
+
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 9 10 17 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (508, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 2 3 9 10 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 12 13 20 27 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (515, 36)
+
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+Solution count for date 21 = 16
+Date = 22
+(0, 1, 2, 3, 4, 5)
+Shape = (530, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (525, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (522, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (499, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 11 16 17 18 23 
+Piece number = 1 --- 19 24 25 26 27 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 9 15 16 23 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (495, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 6 10 11 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (492, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (487, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (461, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 15 16 23 24 25 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (521, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 5 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 15 16 23 24 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (518, 36)
+
+Piece number = 0 --- 4 11 12 13 20 
+Piece number = 1 --- 9 15 16 17 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 19 23 24 25 26 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (513, 36)
+
+Piece number = 0 --- 3 4 10 16 17 
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 8 9 15 16 23 
+Piece number = 5 --- 18 19 20 27 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (483, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (530, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (527, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (522, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (496, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 15 16 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (492, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (518, 36)
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 15 16 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (566, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (563, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 8 9 15 16 23 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (558, 36)
+
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 12 13 17 18 19 
+Piece number = 7 --- 16 23 24 25 26 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 17 23 24 25 26 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 2 3 10 11 12 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (528, 36)
+
+Piece number = 1 --- 17 23 24 25 26 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (554, 36)
+
+Piece number = 1 --- 19 24 25 26 27 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 4 5 6 7 14 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (563, 36)
+
+Piece number = 2 --- 6 11 12 13 20 
+Piece number = 3 --- 17 18 23 24 25 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 7 14 21 27 28 
+
+Solution count for date 22 = 17
+Date = 23
+(0, 1, 2, 3, 4, 5)
+Shape = (502, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (496, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 2 9 10 17 24 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (492, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (472, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (468, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 5 --- 10 17 24 25 26 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (462, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 2 3 4 9 10 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (469, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (465, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (459, 36)
+
+Piece number = 0 --- 2 9 10 11 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 6 --- 3 4 5 12 13 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (435, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 5 --- 8 9 10 15 22 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (492, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (488, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 19 24 25 26 27 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (482, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (458, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 2 3 4 9 10 
+Piece number = 5 --- 18 19 20 27 30 
+Piece number = 6 --- 5 6 7 11 12 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (455, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (502, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 15 16 17 22 24 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (498, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (492, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (468, 36)
+
+Piece number = 0 --- 12 13 20 27 28 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (465, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (488, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 6)
+Shape = (535, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (531, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 12 13 19 20 27 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (525, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 18 19 24 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (501, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 12 19 24 25 26 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 15 16 17 18 22 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (498, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 4 --- 10 11 18 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (521, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (531, 36)
+
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 3 4 9 10 11 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 16 17 24 25 26 
+Piece number = 7 --- 1 2 8 15 22 
+
+Solution count for date 23 = 21
+Date = 24
+(0, 1, 2, 3, 4, 5)
+Shape = (476, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (472, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 6 --- 16 17 18 22 23 
+
+(0, 1, 2, 3, 4, 7)
+Shape = (469, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 2 3 4 5 10 
+Piece number = 2 --- 11 12 13 19 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 6 7 14 20 21 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (446, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (443, 36)
+No solution
+
+
+(0, 1, 2, 3, 6, 7)
+Shape = (439, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (442, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (439, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (435, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (409, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (468, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (465, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (461, 36)
+No solution
+
+
+(0, 1, 3, 5, 6, 7)
+Shape = (435, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 11 17 18 19 20 
+Piece number = 3 --- 4 5 6 12 13 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (431, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 4 --- 4 5 6 11 13 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (476, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 13 20 21 28 31 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (473, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (469, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (443, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (439, 36)
+
+Piece number = 0 --- 10 11 18 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (465, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 3 --- 6 7 13 14 20 
+Piece number = 4 --- 16 17 18 23 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (508, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (505, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 11 16 17 18 25 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (501, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 11 12 19 25 26 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 3 4 5 6 10 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (475, 36)
+
+Piece number = 1 --- 3 4 5 6 12 
+Piece number = 2 --- 2 9 10 11 16 
+Piece number = 3 --- 17 18 19 25 26 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (471, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 11 16 17 18 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (497, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 4 --- 16 17 18 23 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 13 20 27 28 31 
+Piece number = 7 --- 12 19 26 29 30 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (505, 36)
+No solution
+
+
+Solution count for date 24 = 16
+Date = 25
+(0, 1, 2, 3, 4, 5)
+Shape = (466, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 17 18 19 24 26 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (457, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (455, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (431, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 2 3 4 11 12 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (429, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 5 --- 10 11 12 17 24 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (420, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 6 --- 2 9 16 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (429, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (427, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (418, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (392, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 12 19 26 29 30 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (455, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (453, 36)
+No solution
+
+
+(0, 1, 3, 4, 6, 7)
+Shape = (444, 36)
+
+Piece number = 0 --- 12 17 18 19 24 
+Piece number = 1 --- 7 14 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 4 5 6 11 13 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (418, 36)
+
+Piece number = 0 --- 14 19 20 21 26 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 9 10 11 12 16 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (416, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (466, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (464, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 11 12 13 
+Piece number = 4 --- 17 18 19 24 26 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (455, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (429, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 11 18 19 26 29 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (427, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (453, 36)
+
+Piece number = 0 --- 4 11 12 13 20 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 17 18 19 24 26 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (494, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 10 16 17 23 24 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (492, 36)
+
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 17 18 19 26 29 
+Piece number = 7 --- 1 2 8 15 22 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (483, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 3 4 9 10 11 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 12 19 26 29 30 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (457, 36)
+
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 9 10 11 12 16 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (455, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 17 18 19 24 26 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 5 6 10 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (481, 36)
+
+Piece number = 1 --- 17 18 19 20 26 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 3 4 11 12 13 
+Piece number = 7 --- 1 2 8 15 22 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (492, 36)
+
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 3 4 10 11 12 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 9 16 17 24 
+Piece number = 7 --- 1 8 15 22 23 
+
+Solution count for date 25 = 19
+Date = 26
+(0, 1, 2, 3, 4, 5)
+Shape = (436, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (431, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (431, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (405, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (405, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 5 --- 8 9 10 15 22 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (400, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (404, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (404, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (399, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (373, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (429, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (429, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (424, 36)
+No solution
+
+
+(0, 1, 3, 5, 6, 7)
+Shape = (398, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 8 9 10 15 16 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (397, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (436, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 7)
+Shape = (436, 36)
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 2 3 4 11 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (431, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (405, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (404, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (429, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 3 4 8 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (465, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (465, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 25 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (460, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 4 5 11 12 13 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 6 7 14 21 28 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (434, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 17 18 19 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 5 6 10 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (433, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (458, 36)
+
+Piece number = 1 --- 4 10 11 12 13 
+Piece number = 3 --- 27 28 29 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (465, 36)
+No solution
+
+
+Solution count for date 26 = 16
+Date = 27
+(0, 1, 2, 3, 4, 5)
+Shape = (457, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 5 12 18 19 20 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (446, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (444, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (426, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (424, 36)
+
+Piece number = 0 --- 1 8 9 10 17 
+Piece number = 1 --- 12 19 25 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 15 16 22 23 24 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (413, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 6 --- 13 20 21 28 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (430, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (428, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 7 14 19 20 21 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (417, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (397, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 12 19 25 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (450, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 12 19 25 26 29 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (448, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (437, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 7 13 14 20 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 6 --- 9 10 11 15 16 
+Piece number = 7 --- 1 2 3 4 8 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (417, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 14 20 21 28 31 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (421, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (459, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 7 13 14 20 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (457, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (446, 36)
+
+Piece number = 0 --- 4 5 11 17 18 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (426, 36)
+No solution
+
+
+(0, 2, 4, 5, 6, 7)
+Shape = (430, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (450, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (488, 36)
+
+Piece number = 1 --- 4 9 10 11 12 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 16 17 18 22 23 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (486, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 25 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 13 14 21 28 31 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (475, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 11 18 19 26 29 
+Piece number = 7 --- 2 3 4 5 9 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (455, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 10 17 18 19 20 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (459, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 10 11 12 13 20 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (479, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 10 11 12 16 17 
+Piece number = 7 --- 18 19 20 21 25 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (488, 36)
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 13 14 20 21 28 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Solution count for date 27 = 23
+Date = 28
+(0, 1, 2, 3, 4, 5)
+Shape = (502, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (498, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (495, 36)
+
+Piece number = 0 --- 10 15 16 17 22 
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 8 9 
+Piece number = 4 --- 12 13 14 19 21 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (474, 36)
+
+Piece number = 0 --- 10 17 18 19 26 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 3 4 11 12 13 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (471, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 2 3 9 10 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (467, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (471, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (468, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (464, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (440, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (494, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 27 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 11 12 19 26 29 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (463, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 8 9 15 16 22 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (460, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (504, 36)
+
+Piece number = 0 --- 12 13 19 25 26 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 3 4 9 10 11 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (501, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 17 18 24 25 26 
+Piece number = 4 --- 12 13 14 19 21 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 2, 3, 4, 6, 7)
+Shape = (497, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 3 4 5 6 10 
+
+(0, 2, 3, 5, 6, 7)
+Shape = (473, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 4 5 12 19 26 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (470, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 4 --- 20 21 27 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (493, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 6)
+Shape = (537, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 11 12 13 18 19 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 16 17 24 25 26 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (534, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 4 5 12 19 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (530, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 27 30 31 
+Piece number = 6 --- 11 18 19 26 29 
+Piece number = 7 --- 2 3 4 5 9 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (506, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 2 3 4 10 11 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 12 13 17 18 19 
+Piece number = 7 --- 16 23 24 25 26 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (503, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 11 12 16 17 18 
+Piece number = 7 --- 13 20 27 30 31 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (526, 36)
+
+Piece number = 1 --- 4 10 11 12 13 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (536, 36)
+
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 12 13 14 19 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 16 17 18 25 26 
+Piece number = 7 --- 4 5 6 7 11 
+
+Solution count for date 28 = 21
+Date = 29
+(0, 1, 2, 3, 4, 5)
+Shape = (518, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (513, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (513, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 16 17 18 24 25 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (485, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (485, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (480, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 6)
+Shape = (483, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (483, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (478, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (450, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (511, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 26 27 28 30 31 
+Piece number = 4 --- 12 14 19 20 21 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (511, 36)
+No solution
+
+
+(0, 1, 3, 4, 6, 7)
+Shape = (506, 36)
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 8 9 16 17 18 
+Piece number = 7 --- 15 22 23 24 25 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (478, 36)
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 3 --- 17 18 24 25 26 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 5 6 10 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (476, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 19 24 25 26 27 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (518, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 2 --- 12 19 25 26 27 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (518, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (513, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (485, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 10 11 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 17 18 25 26 27 
+Piece number = 7 --- 14 21 28 30 31 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 18 25 26 27 30 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 4 --- 10 11 12 17 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 13 20 21 28 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 3, 4, 5, 6, 7)
+Shape = (511, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 6)
+Shape = (554, 36)
+
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 10 11 17 18 
+Piece number = 4 --- 5 6 12 19 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 27 30 31 
+
+(1, 2, 3, 4, 5, 7)
+Shape = (554, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 19 23 24 25 26 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (549, 36)
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 18 19 25 26 27 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 6 --- 2 3 4 11 12 
+Piece number = 7 --- 14 21 28 30 31 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (521, 36)
+
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 11 12 13 19 26 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 8 9 16 17 18 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (519, 36)
+
+Piece number = 1 --- 10 11 12 13 19 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 17 18 25 26 27 
+Piece number = 7 --- 4 5 6 7 14 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (547, 36)
+
+Piece number = 1 --- 4 10 11 12 13 
+Piece number = 3 --- 26 27 28 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (554, 36)
+
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Solution count for date 29 = 16
+Date = 30
+(0, 1, 2, 3, 4, 5)
+Shape = (518, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 5 12 18 19 20 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+(0, 1, 2, 3, 4, 6)
+Shape = (510, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (509, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 6)
+Shape = (486, 36)
+No solution
+
+
+(0, 1, 2, 3, 5, 7)
+Shape = (485, 36)
+
+Piece number = 0 --- 17 24 25 26 29 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 10 11 12 18 19 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (477, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (485, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 13 20 21 28 31 
+
+(0, 1, 2, 4, 5, 7)
+Shape = (484, 36)
+
+Piece number = 0 --- 6 11 12 13 18 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 7 14 19 20 21 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 4, 6, 7)
+Shape = (476, 36)
+No solution
+
+
+(0, 1, 2, 5, 6, 7)
+Shape = (452, 36)
+No solution
+
+
+(0, 1, 3, 4, 5, 6)
+Shape = (508, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 13 14 19 20 21 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (507, 36)
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 23 24 25 26 29 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (499, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 9 16 17 23 24 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 1 2 8 15 22 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (475, 36)
+
+Piece number = 0 --- 6 7 13 19 20 
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 10 17 22 23 24 
+Piece number = 6 --- 11 18 25 26 29 
+Piece number = 7 --- 2 3 4 5 12 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (474, 36)
+No solution
+
+
+(0, 2, 3, 4, 5, 6)
+Shape = (516, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 7 13 14 20 21 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (515, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (507, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (483, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 21 27 28 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (482, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (505, 36)
+
+Piece number = 0 --- 5 10 11 12 17 
+Piece number = 3 --- 6 7 13 14 21 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (553, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (552, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 18 19 20 26 29 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (544, 36)
+
+Piece number = 1 --- 3 4 5 6 11 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (520, 36)
+
+Piece number = 1 --- 14 21 27 28 31 
+Piece number = 2 --- 18 19 20 26 29 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 5 --- 3 4 5 10 17 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 15 22 23 24 25 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (519, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 10 11 12 13 20 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (542, 36)
+
+Piece number = 1 --- 1 2 3 4 9 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 10 11 12 16 17 
+Piece number = 7 --- 18 19 20 21 25 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (550, 36)
+No solution
+
+
+Solution count for date 30 = 17
+Date = 31
+(0, 1, 2, 3, 4, 5)
+Shape = (532, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 6)
+Shape = (527, 36)
+No solution
+
+
+(0, 1, 2, 3, 4, 7)
+Shape = (526, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 2, 3, 5, 6)
+Shape = (501, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 20 26 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+
+(0, 1, 2, 3, 5, 7)
+Shape = (500, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 16 22 23 24 25 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 2, 3, 6, 7)
+Shape = (495, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 3 --- 14 20 21 27 28 
+Piece number = 6 --- 6 7 11 12 13 
+Piece number = 7 --- 2 3 4 5 9 
+
+(0, 1, 2, 4, 5, 6)
+Shape = (497, 36)
+No solution
+
+
+(0, 1, 2, 4, 5, 7)
+Shape = (496, 36)
+No solution
+
+
+(0, 1, 2, 4, 6, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 2 --- 6 11 12 13 20 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 2, 5, 6, 7)
+Shape = (465, 36)
+
+Piece number = 0 --- 9 16 17 18 25 
+Piece number = 1 --- 1 2 3 4 10 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 14 21 27 28 30 
+Piece number = 7 --- 11 12 19 26 29 
+
+(0, 1, 3, 4, 5, 6)
+Shape = (523, 36)
+
+Piece number = 0 --- 4 9 10 11 16 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 4 --- 5 6 12 19 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 22 23 24 
+
+(0, 1, 3, 4, 5, 7)
+Shape = (522, 36)
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 7 13 14 21 28 
+Piece number = 3 --- 20 26 27 29 30 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+(0, 1, 3, 4, 6, 7)
+Shape = (517, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 3 4 9 10 11 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 6 --- 5 12 13 20 27 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 1, 3, 5, 6, 7)
+Shape = (491, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 3 --- 1 8 9 15 16 
+Piece number = 5 --- 4 5 6 13 20 
+Piece number = 6 --- 2 3 10 11 12 
+Piece number = 7 --- 7 14 21 27 28 
+
+(0, 1, 4, 5, 6, 7)
+Shape = (487, 36)
+
+Piece number = 0 --- 18 19 26 29 30 
+Piece number = 1 --- 17 22 23 24 25 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 11 12 13 20 27 
+Piece number = 6 --- 3 4 5 9 10 
+Piece number = 7 --- 6 7 14 21 28 
+
+(0, 2, 3, 4, 5, 6)
+Shape = (530, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 13 20 21 27 28 
+Piece number = 4 --- 5 6 7 12 14 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 24 25 26 29 30 
+
+(0, 2, 3, 4, 5, 7)
+Shape = (529, 36)
+No solution
+
+
+(0, 2, 3, 4, 6, 7)
+Shape = (524, 36)
+No solution
+
+
+(0, 2, 3, 5, 6, 7)
+Shape = (498, 36)
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 20 21 27 28 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 11 12 13 17 18 
+Piece number = 7 --- 4 5 6 7 14 
+
+(0, 2, 4, 5, 6, 7)
+Shape = (494, 36)
+No solution
+
+
+(0, 3, 4, 5, 6, 7)
+Shape = (520, 36)
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 3 --- 4 5 6 12 13 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 3 10 11 18 25 
+Piece number = 7 --- 7 14 21 27 28 
+
+(1, 2, 3, 4, 5, 6)
+Shape = (568, 36)
+No solution
+
+
+(1, 2, 3, 4, 5, 7)
+Shape = (567, 36)
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+(1, 2, 3, 4, 6, 7)
+Shape = (562, 36)
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 11 13 18 19 20 
+Piece number = 6 --- 14 21 27 28 30 
+Piece number = 7 --- 23 24 25 26 29 
+
+(1, 2, 3, 5, 6, 7)
+Shape = (536, 36)
+
+Piece number = 1 --- 13 20 27 28 30 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 9 10 16 17 18 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 2 3 4 11 12 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 2, 4, 5, 6, 7)
+Shape = (532, 36)
+
+Piece number = 1 --- 12 18 19 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 14 21 27 28 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+(1, 3, 4, 5, 6, 7)
+Shape = (558, 36)
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 20 26 27 29 30 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 23 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+(2, 3, 4, 5, 6, 7)
+Shape = (565, 36)
+
+Piece number = 2 --- 18 19 20 26 29 
+Piece number = 3 --- 5 6 7 12 13 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 6 --- 14 21 27 28 30 
+Piece number = 7 --- 1 8 15 22 23 
+
+Solution count for date 31 = 20

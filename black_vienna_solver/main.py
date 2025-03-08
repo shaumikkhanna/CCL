@@ -2,13 +2,13 @@ import random
 import itertools
 from math import log2
 from collections import Counter
-
+import pickle
 
 
 class Game:
 
 
-    def __init__(self, card_piles=None, query_cards=None, query_deck=False, **config):
+    def __init__(self, card_piles=None, query_cards=None, **config):
         self.query_history = [] # This is from the perspective of player 'me' and will not include any queries to 'me'.
         self.config = config
         self.player_cards = dict()
@@ -112,6 +112,9 @@ class Game:
         updates the database of all possible card combinations for players 'left', 'right', and 'v'
         based on that information.
         """
+
+        assert to_player in ['right', 'left'], 'Invalid player'
+        assert type(answer) == int, 'Invalid answer'
 
         if not hasattr(self, 'all_possibilites'):
             self.setup_db()
@@ -217,7 +220,7 @@ class Game:
         return expected_entropy
 
 
-    def best_query(self, show_all=False, query_deck=True):
+    def best_query(self, show_all=False, query_deck=False):
         """
         Finds the best query to make based on the current state of the game.
         """
@@ -271,9 +274,6 @@ class Game:
             return call
         else:
             return False
-
-
-
 
 
 def test_run_game(T, query_cards, total_symbols, num_cards_vienna, num_cards_player, query_deck=True):
@@ -342,16 +342,72 @@ def setup_game():
     test_run_game(1000, QUERY_CARDS, 12, 3, 3)
 
 
+def main(data):
+    QUERY_CARDS = [[1, 2, 3, 4], [2, 5, 6, 7], [3, 5, 8, 9], [4, 6, 8, 10], [1, 7, 9, 10]]
+    g = Game(query_cards=QUERY_CARDS, total_symbols=10, num_cards_vienna=1, num_cards_player=3)
+    my_cards = input('\n\nEnter your cards: \n')
+    g.player_cards['me'] = [int(c) for c in my_cards.split(',')]
+    g.setup_db()
 
+    moves, win_flag = 0, False
 
+    while True:
+        next_move = input("\nEnter\nquery = record someone else's query\nmove = for your move\npass = for someone else's move\nlose = to indicate a loss\nquit = to quit\n")
+          
+        if next_move == 'move':
+            if g.check_if_ready_to_call():
+                print(g.vienna_distribution())
+                win_flag = True
+                break
+            else:
+                best_query_card, best_to_player = g.best_query(query_deck=False, show_all=True)
+                print(f'Best query: {best_query_card} to {best_to_player}')
+                answers = input('Enter the answer to the query: \n')
+                g.update_db(query_card=best_query_card, to_player=best_to_player, answer=int(answers))
+
+        elif next_move == 'query':
+            query_card = input('Enter the query card: \n').split(',')
+            query_card = [int(q) for q in query_card]
+            to_player = input('Enter the player to query: \n')
+            answer = int(input('Enter the answer: \n'))
+            g.update_db(query_card, to_player, answer)
+
+        elif next_move == 'lose':
+            break
+
+        elif next_move == 'pass':
+            pass
+
+        elif next_move == 'quit':
+            data.append((moves, win_flag))
+            return True
+
+        else:
+            print('Invalid input')
+            continue
+
+        moves += 1
+
+    data.append((moves, win_flag))
+    return False
 
 
 if __name__ == '__main__':
-    pass
-    setup_game()
+    data = []
+    
+    while True:
+        if main(data):
+
+            with open(f'game_data_{random.randint(10**8)}.pickle', 'wb') as f:
+                pickle.dump(data, f)
+
+            break
+
+
+
+
 
     ##### Setup for puzzle
-
     # queries_answers_b = [
     #     ('ouw', 'left', 0),
     #     ('kpw', 'left', 0),
@@ -360,7 +416,6 @@ if __name__ == '__main__':
     #     ('aos', 'left', 1),
     #     ('csx', 'left', 2),
     # ]
-
     # queries_answers_c = [
     #     ('bcy', 'right', 0),
     #     ('itz', 'right', 1),
@@ -370,13 +425,20 @@ if __name__ == '__main__':
     #     ('gpx', 'right', 1),
     #     ('egw', 'right', 1),
     # ]
-
+    # QUERY_CARDS = [
+    #     'acl', 'agm', 'aos', 'apq', 'bcy', 'bhv', 'blm', 'bqt', 'cfi', 
+    #     'csx', 'dhr', 'djz', 'dls', 'dvy', 'egw', 'enq', 'e?r', 'euv',
+    #     'f?y', 'frx', 'fsz', 'gko', 'gpx', 'hn?', 'huz', 'i?w', 'ipr',
+    #     'itz', 'jmo', 'jqx', 'jty', 'kmu', 'knt', 'kpw', 'lnv', 'ouw',
+    # ]
+    # QUERY_CARDS = Game.convert_letter_string_to_number(QUERY_CARDS)
     # queries_answers_b = [(Game.convert_letter_string_to_number(q), p, a) for q, p, a in queries_answers_b]
-    # queries_answers_c = [(Game.convert_letter_string_to_number(q), p, a) for q, p, a in queries_answers_c]
-
-
-    # g.assign_cards_randomly()
+    # queries_answers_c = [(Game.convert_letter_string_to_number(q), p, a) for q, p, a in queries_answers_c] 
+    # g = Game(query_cards=QUERY_CARDS, total_symbols=27, num_cards_vienna=3, num_cards_player=8)
+    # g.player_cards['me'] = Game.convert_letter_string_to_number('bcdetouv')
     # g.setup_db()
-    # print(g.player_cards)
-    # print(g.vienna_distribution())
-    # print(g.best_query())
+    # g.update_db_bulk(queries_answers_b)
+    # g.update_db_bulk(queries_answers_c)
+
+
+

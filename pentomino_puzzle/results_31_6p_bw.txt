@@ -1,0 +1,1021 @@
+
+Date = 1
+
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 3 --- 19 20 21 27 28 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 2
+
+Piece number = 0 --- 3 4 10 16 17 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 3 9 10 16 17 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 13 19 20 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 13 19 20 26 27 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 18 19 24 25 26 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 3 4 10 11 17 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Date = 3
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 3 --- 19 20 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 2 9 16 17 18 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 10 11 12 18 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 4 9 10 11 12 
+Piece number = 2 --- 13 18 19 20 27 
+Piece number = 3 --- 16 17 23 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 17 23 24 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 4 --- 9 10 11 16 18 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 3 --- 1 2 8 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Date = 4
+
+Piece number = 1 --- 18 19 20 21 27 
+Piece number = 2 --- 3 10 11 12 17 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 5
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 6
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 16 17 22 23 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 3 4 5 11 18 
+Piece number = 3 --- 2 9 10 16 17 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 3 --- 9 10 16 17 24 
+Piece number = 4 --- 18 20 25 26 27 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 11 12 18 19 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 16 23 24 25 26 
+
+Date = 7
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 12 13 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 2 --- 11 18 19 20 25 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 6 13 14 21 28 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 11 18 19 20 25 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 2 3 4 5 12 
+
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 4 5 6 10 11 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 11 17 18 19 20 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 3 4 5 10 12 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 6 13 14 21 28 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 10 17 18 19 20 
+
+Date = 8
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 19 20 21 28 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 19 20 21 27 28 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 4 --- 15 17 22 23 24 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 9
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 0 --- 3 4 10 16 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 8 15 16 22 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 10
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 9 16 17 
+Piece number = 7 --- 1 8 15 22 23 
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 3 4 11 18 25 
+
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 11
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 16 23 24 25 26 
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 3 9 10 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Date = 12
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 4 11 17 18 19 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 13
+
+Piece number = 0 --- 12 19 20 21 28 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 3 --- 3 4 10 11 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 7 --- 11 12 19 26 29 
+
+Piece number = 1 --- 3 9 10 11 12 
+Piece number = 3 --- 25 26 27 29 30 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 19 20 21 28 31 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 3 9 10 16 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 14
+
+Piece number = 1 --- 12 18 19 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 10 11 17 24 25 
+Piece number = 5 --- 2 3 4 9 16 
+Piece number = 7 --- 1 8 15 22 23 
+
+Date = 15
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 4 --- 8 9 16 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 11 12 13 19 20 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 17 18 25 26 27 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 16
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 3 --- 19 20 26 27 29 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 4 --- 8 9 15 22 23 
+Piece number = 5 --- 1 2 3 10 17 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 17
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 4 11 12 18 19 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 4 5 6 7 13 
+Piece number = 2 --- 14 19 20 21 28 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 11 12 13 18 20 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+Piece number = 7 --- 4 11 18 24 25 
+
+Piece number = 1 --- 4 10 11 18 25 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 1 --- 10 11 12 13 18 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 3 --- 19 20 21 27 28 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 18
+
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 19 23 24 25 26 
+
+Date = 19
+
+Piece number = 0 --- 13 14 20 26 27 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Date = 20
+
+Piece number = 0 --- 11 12 19 26 27 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 2 3 4 10 17 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 16 18 23 24 25 
+Piece number = 5 --- 21 28 29 30 31 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 21
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 13 14 20 27 
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 3 --- 3 4 10 11 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 9 16 23 24 25 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 4 --- 13 14 20 27 28 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+
+Piece number = 1 --- 16 17 18 19 25 
+Piece number = 2 --- 12 13 14 20 27 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 13 14 20 27 28 
+Piece number = 5 --- 19 26 29 30 31 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Piece number = 2 --- 4 5 6 12 19 
+Piece number = 3 --- 3 9 10 16 17 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 22
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 9 16 17 18 23 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 4 5 6 10 11 
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 10 16 17 23 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 9 10 16 17 23 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 11 18 24 25 26 
+Piece number = 3 --- 1 2 8 9 15 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 6 --- 3 10 16 17 23 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 9 15 16 17 18 
+Piece number = 3 --- 4 5 6 11 12 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+Piece number = 7 --- 19 23 24 25 26 
+
+Date = 23
+
+Piece number = 0 --- 7 12 13 14 19 
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 4 5 6 11 18 
+
+Piece number = 0 --- 9 10 17 24 25 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 13 19 20 26 27 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 0 --- 11 12 18 24 25 
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 21 27 28 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 18 19 24 25 26 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 24 25 26 27 29 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 6 --- 12 13 14 18 19 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 3 --- 26 27 29 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 6 --- 18 19 20 24 25 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 24
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 3 --- 5 6 12 13 19 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 7 14 20 21 27 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 12 17 18 19 20 
+Piece number = 4 --- 13 14 21 27 28 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 4 11 17 18 25 
+Piece number = 3 --- 9 15 16 22 23 
+Piece number = 4 --- 1 2 3 8 10 
+Piece number = 5 --- 5 6 7 12 19 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Date = 25
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 10 11 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 13 20 26 27 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 3 9 10 11 12 
+Piece number = 3 --- 13 19 20 26 27 
+Piece number = 4 --- 1 2 8 15 16 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 17 18 22 23 24 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 26
+
+Piece number = 0 --- 5 6 12 18 19 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 2 --- 10 17 23 24 25 
+Piece number = 4 --- 2 3 4 9 11 
+Piece number = 5 --- 21 28 29 30 31 
+Piece number = 6 --- 7 13 14 20 27 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+Date = 27
+
+Piece number = 0 --- 1 2 9 16 17 
+Piece number = 1 --- 12 19 25 26 29 
+Piece number = 2 --- 5 6 7 13 20 
+Piece number = 3 --- 3 4 10 11 18 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 0 --- 12 19 20 21 28 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 25 26 29 30 31 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 0 --- 9 10 16 22 23 
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 3 --- 11 17 18 24 25 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 4 9 10 11 12 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 16 17 18 22 23 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 19 20 26 29 30 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 7 --- 13 14 21 28 31 
+
+Piece number = 1 --- 4 5 6 7 12 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 11 18 23 24 25 
+Piece number = 6 --- 13 19 20 26 29 
+Piece number = 7 --- 14 21 28 30 31 
+
+Piece number = 1 --- 16 17 18 19 25 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 26 28 29 30 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 11 12 13 20 21 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 2 --- 1 2 3 9 16 
+Piece number = 3 --- 13 14 20 21 28 
+Piece number = 4 --- 10 12 17 18 19 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 25 26 29 30 31 
+Piece number = 7 --- 4 5 6 7 11 
+
+Date = 28
+
+Piece number = 1 --- 4 9 10 11 12 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 20 21 27 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 16 17 18 22 23 
+
+Piece number = 2 --- 20 27 29 30 31 
+Piece number = 3 --- 17 18 19 25 26 
+Piece number = 4 --- 9 10 16 23 24 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 3 4 11 12 13 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 29
+
+Piece number = 0 --- 19 20 27 30 31 
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 0 --- 12 19 20 21 28 
+Piece number = 1 --- 1 8 15 16 22 
+Piece number = 3 --- 5 6 7 13 14 
+Piece number = 4 --- 9 10 17 23 24 
+Piece number = 5 --- 2 3 4 11 18 
+Piece number = 6 --- 25 26 27 30 31 
+
+Piece number = 1 --- 1 8 9 15 22 
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 2 3 10 16 17 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 7 --- 19 23 24 25 26 
+
+Piece number = 1 --- 2 3 4 5 11 
+Piece number = 2 --- 1 8 9 10 15 
+Piece number = 3 --- 6 7 12 13 14 
+Piece number = 5 --- 19 20 21 28 31 
+Piece number = 6 --- 16 17 18 22 23 
+Piece number = 7 --- 24 25 26 27 30 
+
+Piece number = 1 --- 10 11 12 13 19 
+Piece number = 2 --- 9 16 22 23 24 
+Piece number = 4 --- 20 21 28 30 31 
+Piece number = 5 --- 1 2 3 8 15 
+Piece number = 6 --- 17 18 25 26 27 
+Piece number = 7 --- 4 5 6 7 14 
+
+Piece number = 2 --- 7 12 13 14 21 
+Piece number = 3 --- 20 27 28 30 31 
+Piece number = 4 --- 17 19 24 25 26 
+Piece number = 5 --- 4 5 6 11 18 
+Piece number = 6 --- 3 9 10 16 23 
+Piece number = 7 --- 1 2 8 15 22 
+
+Date = 30
+
+Piece number = 1 --- 16 17 18 19 25 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 26 27 28 29 31 
+Piece number = 5 --- 8 15 22 23 24 
+Piece number = 6 --- 11 12 13 20 21 
+Piece number = 7 --- 4 5 6 7 14 
+
+Date = 31
+
+Piece number = 1 --- 18 23 24 25 26 
+Piece number = 2 --- 8 15 16 17 22 
+Piece number = 3 --- 1 2 3 9 10 
+Piece number = 4 --- 19 20 27 29 30 
+Piece number = 5 --- 12 13 14 21 28 
+Piece number = 7 --- 4 5 6 7 11 
+
+Piece number = 1 --- 13 20 27 28 30 
+Piece number = 2 --- 19 24 25 26 29 
+Piece number = 3 --- 2 3 4 9 10 
+Piece number = 5 --- 5 6 7 14 21 
+Piece number = 6 --- 11 12 16 17 18 
+Piece number = 7 --- 1 8 15 22 23 
