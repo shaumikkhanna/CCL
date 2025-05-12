@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-#define ROWS 5
+#define ROWS 4
 #define COLS 4
 #define MAX_SUCCESSORS 4*ROWS*COLS - 2*ROWS - 2*COLS
 #define MAX_QUEUE_SIZE 1000000
@@ -70,7 +70,8 @@ int main() {
     BoardState goal_state = 0;
 
     // Initialize start state
-    start_state = 0b11111111100111111111; // Standard start state
+    start_state = 0b1111111111111111; // Standard start state
+    CLEAR_PEG(start_state, POS(4, 3)); // Center peg removed
 
     // Fill the board with pegs except center
     // for (int i = 0; i < ROWS; i++) { 
