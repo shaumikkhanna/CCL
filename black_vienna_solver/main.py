@@ -6,8 +6,6 @@ import pickle
 
 
 class Game:
-
-
     def __init__(self, card_piles=None, query_cards=None, **config):
         self.query_history = [] # This is from the perspective of player 'me' and will not include any queries to 'me'.
         self.config = config
@@ -256,8 +254,7 @@ class Game:
         
         if show_all:
             all_results.sort(key=lambda x: x[2])
-            for query_card, to_player, expected_entropy in all_results:
-                print(f'Query: {query_card} To: {to_player} Entropy: {expected_entropy}\n')
+            return all_results
         
         return best_query
         
